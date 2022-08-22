@@ -21,6 +21,8 @@
 <h2>Most Used Language</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrvishalkumbhar&show_icons=true&locale=en&layout=compact" alt="mrvishalkumbhar" /></p>
 
+<h2>My GitHub Stats</h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrvishalkumbhar&show_icons=true&locale=en" alt="mrvishalkumbhar" /></p>
 
+<h2>My Streak</h2>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrvishalkumbhar&" alt="mrvishalkumbhar" /></p>
