@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Umakant Kumbhar</h1>
-<h3 align="center">A passionate to create new ideas 🤔</h3>
+<h3 align="center">Passionate to create new ideas 🤔</h3>
 
 <p align="center">
   <img src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
