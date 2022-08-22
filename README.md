@@ -5,10 +5,6 @@
   <img src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrvishalkumbhar&label=Profile%20views&color=0e75b6&style=flat" alt="mrvishalkumbhar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrvishalkumbhar" alt="mrvishalkumbhar" /></a> </p>
-
 - 📫 How to reach me **vkvishalkumbhar99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
